@@ -18,8 +18,6 @@ kotlinc Test.kt -include-runtime -d Test.jar; java -jar Test.jar
 
 ## Links:
 
-Google I/O '17 intro: https://www.youtube.com/watch?v=X1RVYt2QKQE
-
 More command line info: https://kotlinlang.org/docs/tutorials/command-line.html
 
 Try out Kotlin examples in your browser: https://try.kotlinlang.org
@@ -27,3 +25,5 @@ Try out Kotlin examples in your browser: https://try.kotlinlang.org
 Kotlin documentation: https://kotlinlang.org
 
 Install that `brew` command (Mac): https://brew.sh
+
+Google I/O '17 intro: https://www.youtube.com/watch?v=X1RVYt2QKQE
