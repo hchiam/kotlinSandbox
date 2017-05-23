@@ -33,4 +33,5 @@ fun testFileReader() {
 
 fun main(args : Array<String>) {
   testFileReader()
+  println("This used Kotlin.")
 }

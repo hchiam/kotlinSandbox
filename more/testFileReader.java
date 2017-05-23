@@ -23,6 +23,7 @@ public class testFileReader {
         }
         line = reader.readLine();
       }
+      System.out.println("This used Java.");
     } catch (Exception e) {
       System.err.println("Exception");
       // do something
