@@ -1,6 +1,8 @@
-write Another.kt --(generated)--> Another.jar --> you run this .jar file (of Kotlin code)
+Another.kt --(generated)--> Another.jar --> you run this .jar file (of Kotlin code)
 
-write testFileReader.java
+<br/>
+
+testFileReader.java
 
 --(generated)--> testFileReader.class --> you run this .class file (of Java code)
 
