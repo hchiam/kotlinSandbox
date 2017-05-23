@@ -1,3 +1,5 @@
+// transcompiled to Kotlin from Java: https://github.com/hchiam/learning-java/blob/master/testFileReader.java
+
 /*
  *In Terminal/Commandline, enter these two commands:
  *kotlinc testFileReader.kt -include-runtime -d testFileReader.jar
