@@ -1,4 +1,4 @@
-# Learning Kotlin Programming Language
+# Learning the Kotlin Programming Language
 
 ## Set Up Kotlin for Testing with Terminal / Command Line
 
