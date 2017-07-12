@@ -1,5 +1,5 @@
 # Learning the Kotlin Programming Language
-Just on of the things I'm learning. https://github.com/hchiam/learning
+Just one of the things I'm learning. https://github.com/hchiam/learning
 
 ## Set Up Kotlin for Testing with Terminal / Command Line
 
